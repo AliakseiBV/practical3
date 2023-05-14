@@ -1,0 +1,23 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+target/
+
+
+.classpath
+.project
+
+.gitignore
+*.iml
+
+.settings/
+
+.idea/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
